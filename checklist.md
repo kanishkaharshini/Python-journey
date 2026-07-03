@@ -15,8 +15,8 @@
 
 - [x] Variables
 - [x] Naming Conventions
-- [ ] Multiple Assignment
-- [ ] Constants
+- [x] Multiple Assignment
+- [x] Constants
 
 ---
 
