@@ -23,52 +23,52 @@
 ## ➕ Operators
 
 ### Arithmetic Operators
-- [ ] Addition (`+`)
-- [ ] Subtraction (`-`)
-- [ ] Multiplication (`*`)
-- [ ] Division (`/`)
-- [ ] Floor Division (`//`)
-- [ ] Modulus (`%`)
-- [ ] Exponentiation (`**`)
+- [x] Addition (`+`)
+- [x] Subtraction (`-`)
+- [x] Multiplication (`*`)
+- [x] Division (`/`)
+- [x] Floor Division (`//`)
+- [x] Modulus (`%`)
+- [x] Exponentiation (`**`)
 
 ### Assignment Operators
-- [ ] =
-- [ ] +=
-- [ ] -=
-- [ ] *=
-- [ ] /=
-- [ ] //=
-- [ ] %=
-- [ ] **=
+- [x] =
+- [x] +=
+- [x] -=
+- [x] *=
+- [x] /=
+- [x] //=
+- [x] %=
+- [x] **=
 
 ### Comparison Operators
-- [ ] ==
-- [ ] !=
-- [ ] >
-- [ ] <
-- [ ] >=
-- [ ] <=
+- [x] ==
+- [x] !=
+- [x] >
+- [x] <
+- [x] >=
+- [x] <=
 
 ### Logical Operators
-- [ ] and
-- [ ] or
-- [ ] not
+- [x] and
+- [x] or
+- [x] not
 
 ### Bitwise Operators
-- [ ] &
-- [ ] |
-- [ ] ^
-- [ ] ~
-- [ ] <<
-- [ ] >>
+- [x] &
+- [x] |
+- [x] ^
+- [x] ~
+- [x] <<
+- [x] >>
 
 ### Identity Operators
-- [ ] is
-- [ ] is not
+- [x] is
+- [x] is not
 
 ### Membership Operators
-- [ ] in
-- [ ] not in
+- [x] in
+- [x] not in
 
 ---
 
