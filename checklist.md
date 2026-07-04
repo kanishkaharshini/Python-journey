@@ -75,17 +75,17 @@
 ## 📦 Data Types
 
 ### Numbers
-- [ ] int
-- [ ] float
-- [ ] complex
-- [ ] bool
+- [x] int
+- [x] float
+- [x] complex
+- [x] bool
 
 ### Strings
-- [ ] String Basics
-- [ ] Indexing
-- [ ] Slicing
-- [ ] String Methods
-- [ ] f-Strings
+- [x] String Basics
+- [x] Indexing
+- [x] Slicing
+- [x] String Methods
+- [x] f-Strings
 
 ### Lists
 - [ ] Creating Lists
